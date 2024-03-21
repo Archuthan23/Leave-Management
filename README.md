@@ -36,7 +36,7 @@ Before running the system, ensure you have the following:
 1. Install JDK.
 2. Install Eclipse.
 3. Install MySQL Workbench.
-4. Set up your MySQL database with the required schema using the `schema.sql` file.
+4. Set up your MySQL database with the required schema using the `Leave_Management.sql` file.
 
 ## Database Setup
 1. Install the provided SQL file in your MySQL Workbench.
@@ -50,4 +50,4 @@ Before running the system, ensure you have the following:
  
 ## Database Schema
  
-The database schema includes tables such as User and leave requests. Refer to the `schema.sql` file for details.
+The database schema includes tables such as User and leave requests. Refer to the `Leave_Management.sql` file for details.
